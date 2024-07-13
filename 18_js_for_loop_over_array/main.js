@@ -1,6 +1,6 @@
 // This is a example of "For Loop Over Array"
 
-let cetagory = ["Banana", "Apple", "Strawberry", "Avocado", "Mango", "Orange", "Cherry"];
+let cetagory = ["Banana", "Apple", "Strawberry", "Avocado", "Mango", "Orange", "Cherry","Blueberry","Canary Melon", "Pineapples", "Grapes", "Watermelons"];
 
 let i;
 
