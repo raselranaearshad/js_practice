@@ -1,0 +1,1 @@
+### This is a example of For In Loop Over Object in JavaScript.
